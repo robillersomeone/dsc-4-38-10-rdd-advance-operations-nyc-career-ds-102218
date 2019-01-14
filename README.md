@@ -7,8 +7,10 @@ In this lesson, we shall look at some advanced operations that we can perform on
 
 ## Objectives
 
-* Differentiate between `map()` and `flatMap(func)` transformations. 
-* Identify suitable use-cases for `groupByKey()` and `reduceByKey()`.
+You will be able to:
+
+* Differentiate between `map()` and `flatMap(func)` transformations
+* Identify suitable use-cases for `groupByKey()` and `reduceByKey()`
 * Demonstrate knowledge of advanced transformations including `mapPartitions()` and `mapPartitionsWithIndex()`
 
 ## The `flatMap(func)` transformation
